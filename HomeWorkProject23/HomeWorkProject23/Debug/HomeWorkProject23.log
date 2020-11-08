@@ -1,0 +1,3 @@
+﻿  HomeWorkProject23.cpp
+D:\Programe\HomeWorkProject23\HomeWorkProject23\HomeWorkProject23.cpp(50): warning C4715: 'CarPark': not all control paths return a value
+  HomeWorkProject23.vcxproj -> D:\Programe\HomeWorkProject23\Debug\HomeWorkProject23.exe
