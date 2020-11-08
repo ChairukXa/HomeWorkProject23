@@ -38,7 +38,7 @@ int CarPark(int x, int y)
 		if (x > 1)
 		{
 			int i;
-			i = x * 30;
+			i = (x-1) * 30;
 			printf("You must pay Parking fee %d bath", i);
 			return i ;
 		}
